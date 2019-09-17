@@ -1,0 +1,14 @@
+C:\Users\zdobe\Desktop\NetClass\Main\ZDobrzynskiMain\ZDobrzynskiMain\bin\Debug\netcoreapp2.1\ZDobrzynskiMain.deps.json
+C:\Users\zdobe\Desktop\NetClass\Main\ZDobrzynskiMain\ZDobrzynskiMain\bin\Debug\netcoreapp2.1\ZDobrzynskiMain.runtimeconfig.json
+C:\Users\zdobe\Desktop\NetClass\Main\ZDobrzynskiMain\ZDobrzynskiMain\bin\Debug\netcoreapp2.1\ZDobrzynskiMain.runtimeconfig.dev.json
+C:\Users\zdobe\Desktop\NetClass\Main\ZDobrzynskiMain\ZDobrzynskiMain\bin\Debug\netcoreapp2.1\ZDobrzynskiMain.dll
+C:\Users\zdobe\Desktop\NetClass\Main\ZDobrzynskiMain\ZDobrzynskiMain\bin\Debug\netcoreapp2.1\ZDobrzynskiMain.pdb
+C:\Users\zdobe\Desktop\NetClass\Main\ZDobrzynskiMain\ZDobrzynskiMain\obj\Debug\netcoreapp2.1\ZDobrzynskiMain.csprojAssemblyReference.cache
+C:\Users\zdobe\Desktop\NetClass\Main\ZDobrzynskiMain\ZDobrzynskiMain\obj\Debug\netcoreapp2.1\ZDobrzynskiMain.csproj.CoreCompileInputs.cache
+C:\Users\zdobe\Desktop\NetClass\Main\ZDobrzynskiMain\ZDobrzynskiMain\obj\Debug\netcoreapp2.1\ZDobrzynskiMain.RazorAssemblyInfo.cache
+C:\Users\zdobe\Desktop\NetClass\Main\ZDobrzynskiMain\ZDobrzynskiMain\obj\Debug\netcoreapp2.1\ZDobrzynskiMain.RazorAssemblyInfo.cs
+C:\Users\zdobe\Desktop\NetClass\Main\ZDobrzynskiMain\ZDobrzynskiMain\obj\Debug\netcoreapp2.1\ZDobrzynskiMain.AssemblyInfoInputs.cache
+C:\Users\zdobe\Desktop\NetClass\Main\ZDobrzynskiMain\ZDobrzynskiMain\obj\Debug\netcoreapp2.1\ZDobrzynskiMain.AssemblyInfo.cs
+C:\Users\zdobe\Desktop\NetClass\Main\ZDobrzynskiMain\ZDobrzynskiMain\obj\Debug\netcoreapp2.1\ZDobrzynskiMain.RazorTargetAssemblyInfo.cache
+C:\Users\zdobe\Desktop\NetClass\Main\ZDobrzynskiMain\ZDobrzynskiMain\obj\Debug\netcoreapp2.1\ZDobrzynskiMain.dll
+C:\Users\zdobe\Desktop\NetClass\Main\ZDobrzynskiMain\ZDobrzynskiMain\obj\Debug\netcoreapp2.1\ZDobrzynskiMain.pdb

@@ -1,0 +1,16 @@
+﻿#Greeting{ 
+    font-family: 'Saira Stencil One', cursive;
+    display: inline-block;
+}
+
+.hoverRed{
+    color: red;
+}
+
+.hoverGreen{
+    color: green;
+}
+
+.hoverBlue{
+    color: blue;
+}

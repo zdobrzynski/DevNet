@@ -1,0 +1,105 @@
+﻿<div class="jumbotron jumbotron-fluid border rounded border-dark shadow m-b-0">
+    <h1 class="display-3">Northwind Traders</h1>
+    <p>We have stuff</p>
+</div>
+<div class="container">
+
+    <div class="row">
+        <div class="col-md-4 col-sm-6">
+            <h4>You can get stuff by paying money</h4>
+            <p>More information is within here.</p>
+            <hr />
+            <button type="button" class="btn btn-success">Buy Stuff Now</button>
+        </div>
+        <div class="col-md-4 col-sm-6">
+            <h4>Need Money? Try selling your belongings!</h4>
+            <p>Even more information is within here.</p>
+            <hr />
+            <button type="button" class="btn btn-success">Sell Stuff Now</button>
+        </div>
+        <div class="col-md-4">
+            <h4>I needed a third column.</h4>
+            <p>This is content within a column.  The button also activates the toast.</p>
+            <hr />
+            <button type="button" class="btn btn-success" id="toa">Does something</button>
+        </div>
+    </div>
+
+</div>
+
+<div class="toast" data-autohide="false">
+    <div class="toast-header">
+        Toast Header
+    </div>
+    <div class="toast-body">
+        Text inside toast.
+    </div>
+</div>
+
+<div class="container">
+
+    <h1 id="Greeting">Happy Birthday</h1><br />
+
+    <div class="row">
+
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="name">Name</label>
+                <input type="test" class="form-control" id="name" />
+            </div>
+
+            <div class="form-group">
+                <label for="birthday">Birthday</label>
+                <input type="text" class="form-control" id="birthday" />
+            </div>
+        </div>
+        <div class="col-md-6">
+            <img src="media/red.png" id="imgRed" />
+            <img src="media/green.png" id="imgGreen" />
+            <img src="media/blue.png" id="imgBlue" />
+        </div>
+
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Select Your Balloon</h5>
+                <div class="form-group form-check">
+                    <label class="form-check-label">
+                        <input type="checkbox" class="form-check-input" id="Red" />
+                        Red
+                    </label>
+                </div>
+                <div class="form-group form-check">
+                    <label class="form-check-label">
+                        <input type="checkbox" class="form-check-input" id="Green" />
+                        Green
+                    </label>
+                </div>
+                <div class="form-group form-check">
+                    <label class="form-check-label">
+                        <input type="checkbox" class="form-check-input" id="Blue" />
+                        Blue
+                    </label>
+                </div>
+
+                <button type="button" class="btn btn-outline-primary" id="balloonSubmit">Submit</button><br />
+                <span id="togglecb">Uncheck/Check all</span>
+
+                <div class="toast" id="Warning">
+                    <div class="toast-header">
+                        Hey
+                    </div>
+                    <div class="toast-body">
+                        You need to select a color.
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+@section Scripts {
+    <script src="js/MainJS.js"></script>
+}
